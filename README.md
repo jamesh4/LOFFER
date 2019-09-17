@@ -196,3 +196,5 @@ LOFFER支持Disqus评论，虽然Disqus很丑，但是它是免费的，设置�
 最后，回到[LOFFER](https://github.com/FromEndWorld/LOFFER)，给我点一个☆吧！
 
 ![img](https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/givemefive.png)
+
+So cool! Thumbs up!
